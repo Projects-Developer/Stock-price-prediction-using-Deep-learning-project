@@ -1,6 +1,8 @@
 # Stock-price-prediction-using-Deep-learning-project
 Stock price prediction using Deep learning project Code, Document And Video Tutorial
 
+![Stock Price (1)](https://github.com/user-attachments/assets/da2b3c69-55f9-4f79-a184-15589a589dae)
+
 ## Youtube link: https://youtu.be/44u5oU9MQGg?si=Wkv_jTWNxBKeB0_7
 
 ## Abstract
